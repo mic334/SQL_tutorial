@@ -44,14 +44,14 @@ CREATE TABLE IF NOT EXISTS studenti (
 
 INSERT INTO studenti (nome, cognome, email, data_nascita)
 VALUES
-('Luca', 'Rossi', 'luca.rossi@studenti.it', '2009-03-15'),
+('Luca', 'Rossi', 'luca.rossi@studenti.it', '2004-03-15'),
 ('Marco', 'Verde', 'marco.verde@studenti.it', '2008-07-22'),
 ('Giulia', 'Blu', 'giulia.blu@studenti.it', '2007-11-10'),
 ('Sara', 'Giallo', 'sara.giallo@studenti.it', '2008-01-05'),
 ('Matteo', 'Nero', 'matteo.nero@studenti.it', '2010-06-18'),
 ('Alessia', 'Bianco', 'alessia.bianco@studenti.it', '2009-09-30'),
-('Davide', 'Arancione', 'davide.arancione@studenti.it', '2007-04-12'),
-('Francesca', 'Viola', 'francesca.viola@studenti.it', '2008-12-25'),
+('Davide', 'Arancione', 'davide.arancione@studenti.it', '2001-04-12'),
+('Francesca', 'Viola', 'francesca.viola@studenti.it', '2001-12-25'),
 ('Andrea', 'Rosa', 'andrea.rosa@studenti.it', '2010-02-14'),
 ('Chiara', 'Marrone', 'chiara.marrone@studenti.it', '2009-08-08'),
 ('Simone', 'Grigio', 'simone.grigio@studenti.it', '2007-06-03'),
